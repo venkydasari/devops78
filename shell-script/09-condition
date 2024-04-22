@@ -1,0 +1,9 @@
+#!/bin/bash
+
+Num=$1
+if (Num -gt 10)
+then
+echo " give no is greater than 10 "
+else
+echo "given no is less than 10 "
+fi
