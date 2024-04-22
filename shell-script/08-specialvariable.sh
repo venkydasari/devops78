@@ -8,5 +8,5 @@ echo " current working directory $PWD "
 echo " present home directory $HOME "
 echo " host name is $HOSTNAME "
 echo " process id of current shell script $$ "
-sleep 30 $
+sleep 30 &
 echo " process id of last backgroung id $!"
