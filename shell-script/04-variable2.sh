@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
  P1=&1
  P2=$2
   echo "$P1 says hai to $P2"
