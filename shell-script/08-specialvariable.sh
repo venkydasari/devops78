@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo " print all variavles $@ "
-#echo " print no of variable $# "
+echo " print no of variable $# "
 #echo "script name $0 "
 #echo " print user name $USER "
 #echo " current working directory $PWD "
