@@ -1,6 +1,6 @@
 #!/bin/bash
 movie=("DJ" "kgf" "LBW")
 
-echo " movie1 = ${movie(0)}"
-echo "movie2 = ${movie(1)}"
-echo "all movie name =${movie(@)}"
+echo " movie1 = ${movie[0]}"
+echo " movie2 = ${movie[1]}"
+echo " all movie name =${movie[@]}"
